@@ -6,7 +6,7 @@ import { projects } from "../data/projects";
 export default function Gallery() {
   return (
     <section className="w-full bg-white py-16 overflow-hidden">
-      <div className="mx-auto px-16">
+      <div className="mx-auto md:px-16 px-4">
 
         {/* 🔹 السكشن الأول */}
         <div className="grid gap-4 mb-12">
