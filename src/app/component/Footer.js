@@ -128,7 +128,7 @@ export default function Footer() {
         {/* السوشيال ميديا (تظهر فقط على الشاشات الصغيرة) */}
         <div className="flex md:hidden flex-col items-center mt-3">
           <p className="text-primary mb-3 font-medium">
-            تابعني على حساباتي الرسمية:
+          {t.followMe}
           </p>
           <div className="flex gap-3 justify-center items-center flex-wrap">
             <a
