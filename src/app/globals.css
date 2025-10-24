@@ -19,3 +19,11 @@
     --foreground: #ededed;
   }
 }
+
+@theme {
+  --color-primary: #594534;
+  --color-secondary: rgb(164, 151, 141);
+  --color-light: rgb(215, 204, 196);
+  --color-light-dark: rgb(200, 189, 179);
+  --color-lite-white:#EBE7DF;
+}
